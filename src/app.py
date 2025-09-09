@@ -4,6 +4,7 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 import statsmodels.api as sm
+import plotly.express as px
 
 # Assuming preprocess.py is in the same directory
 from preprocess import load_and_preprocess
